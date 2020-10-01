@@ -5,7 +5,7 @@ Requirements: Could be found in browser/requirements.txt
 Usage:
 Clone this repository
 
-git clone https://github.com/Daniel1404/terminal-browser
+git clone https://github.com/Daniel1404/terminal-browser.git
 
 cd terminal-browser/browser/ && python3 browser.py
 
