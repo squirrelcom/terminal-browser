@@ -50,7 +50,7 @@ def go_back():
 
 
 while True:
-    command = input("Search for a valid web address >>")
+    command = input("Squirrel-Navigator!! Search for a Url >>")
     if command == "exit":
         break
     if command == "back":
@@ -58,4 +58,4 @@ while True:
     elif "." in command:
         go_site(command)
     else:
-        print("Error: Incorrect URL")
+        print("Error: Squirrel-Navigator could not locate that URL")
