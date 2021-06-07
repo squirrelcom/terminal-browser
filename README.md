@@ -1,12 +1,14 @@
-# terminal-browser
-This is a text based browser, which is capable of show the text of real web pages. 
-Requirements: Could be found in browser/requirements.txt 
+# Squirrel-Navigator
+This is a private and secure text based browser
+Requirements: Could be found in browser/requirements.txt to download them type in your terminal pip or pip3 install requirements.txt
 
 Usage:
 Clone this repository
 
-git clone https://github.com/Daniel1404/terminal-browser.git
+# How to install
 
-cd terminal-browser/browser/ && python3 browser.py
+``` git clone https://github.com/squirrelcom/Squirrel-Navigator.git```
 
-Search for real web pages!
+``` cd Squirrel-Navigator/browser/ && python3 browser.py```
+
+Now you can Navigate the web!
